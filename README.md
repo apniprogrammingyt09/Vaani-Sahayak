@@ -12,13 +12,13 @@ Vaani Sahayak was conceptualized and developed by Krish Bhagat, a third-year Com
 
 
 ## Contributors
-###   1.	Krishna Jagtap
+1. Krishna Jagtap
 	Co-Founder of KodRish Innovation & Solution LLP and a third-year Computer Science Engineering student at IPS Academy, Indore, Krishna is a passionate technologist dedicated to innovative problem-solving and collaboration.
-### 	2.	Ritik Pawar
+2. Ritik Pawar
 		Co-Founder of KodRish Innovation & Solution LLP and a third-year Computer Science Engineering student at IPS Academy, Indore, Ritik focuses on building scalable and user-friendly solutions through technology.
-### 	3.	Sahil Sharma
+3.Sahil Sharma
 		A third-year Computer Science Engineering student specializing in UI/UX Design at IPS Academy, Indore, Sahil ensures that Vaani Sahayak offers an intuitive and seamless user experience.
-### 	4.	Gouri Jat
+4.Gouri Jat
 		A second-year Computer Science Engineering student at IPS Academy, Indore, Gouri brings fresh perspectives and supports the team with innovative ideas, contributing significantly to the project’s success.
   
 ### In just a few months, Vaani Sahayak is set to make its debut, transforming the way we communicate with the speech and hearing-impaired community. This groundbreaking Indian Sign Language translator leverages advanced AI and machine learning to enable real-time gesture recognition, sentence construction, and word suggestions, providing an inclusive and seamless communication experience.
