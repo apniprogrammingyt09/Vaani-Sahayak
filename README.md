@@ -22,5 +22,3 @@ Vaani Sahayak was conceptualized and developed by Krish Bhagat, a third-year Com
 		A second-year Computer Science Engineering student at IPS Academy, Indore, Gouri brings fresh perspectives and supports the team with innovative ideas, contributing significantly to the project’s success.
   
 ### In just a few months, Vaani Sahayak is set to make its debut, transforming the way we communicate with the speech and hearing-impaired community. This groundbreaking Indian Sign Language translator leverages advanced AI and machine learning to enable real-time gesture recognition, sentence construction, and word suggestions, providing an inclusive and seamless communication experience.
-
-Whether it’s through its intuitive web interface, intelligent word predictions, or robust API integrations, Vaani Sahayak is designed to empower individuals and break down barriers in communication. Get ready to experience the future of inclusive technology—Vaani Sahayak is coming soon!
